@@ -47,8 +47,13 @@ button {
   border: 1px solid #CCCCCC;
 }
 
+input[type=text] {
+  font-size: 18px;
+  background-color: lightgrey;
+}
+
 #lead-photo {
-  width: 200px;
+  width: 100px;
   margin: auto;
   padding: 1em;
   border-radius: 50px;
